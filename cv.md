@@ -1,6 +1,6 @@
-##Borok Aleksandr Vyacheslavovich##
+Borok Aleksandr Vyacheslavovich
 
-**+375297165646**
++375297165646
 - English language A1
 - JavaScript
 - HTML
